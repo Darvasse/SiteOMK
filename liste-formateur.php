@@ -46,13 +46,13 @@
 															<header>
 																<h3><a href="#">Jean-Yves KLEIN</a></h3>
 															</header>
-															<span class="image left"><img src="images/pic06.jpg" alt="" /></span>
+															<span class="image left "><img class="img-formateurs" src="images/pic06.jpg" alt="" /></span>
 															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
 															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
 															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
 															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
 															<ul class="actions">
-																<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
+																<li><a target="_blank" href="https://www.linkedin.com/in/jean-yves-klein/" class="button icon solid fa-file">LinkedIn</a></li>
 															</ul>
 														</article>
 
@@ -64,13 +64,13 @@
 															<header>
 																<h3><a href="#">Frank ORTEGA</a></h3>
 															</header>
-															<a href="#" class="image left"><img src="images/pic07.jpg" alt="" /></a>
+															<a href="#" class="image left "><img class="img-formateurs" src="images/pic09.jpg" alt="" /></a>
 															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
 															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
 															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
 															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
 															<ul class="actions">
-																<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
+																<li><a target="_blank" href="#" class="button icon solid fa-file">LinkedIn</a></li>
 															</ul>
 														</article>
 
@@ -82,13 +82,12 @@
 															<header>
 																<h3><a href="#">Yannis MARTIN</a></h3>
 															</header>
-															<a href="#" class="image left"><img src="images/pic07.jpg" alt="" /></a>
-															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
-															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
-															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
-															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
+															<a href="#" class="image left "><img class="img-formateurs" src="images/pic08.jpg" alt="" /></a>
+															<p>Professionnel expérimenté des Systèmes d'Information, je soutiens dorénavant les entreprises dans les changements technologiques impactant leurs métiers. J’aide à coconstruire leur transformation numérique en étudiant leurs stratégies d'évolution.</p>
+															<p>Au cours de mes expériences, j’ai pu gérer des équipes pluridisciplinaires et multinationales, internes comme externes, des infrastructures variées dans le monde entier à plus récemment du soutien aux équipes de développement.</p>
+															<p>Ayant œuvrer dans des secteurs très différents (Formation, Energie, Logistique, Industrie, Commerce, Transport, …), j’ai mené un très large éventail de missions m’amenant aujourd’hui à soutenir mes clients sur leurs innovations techniques et méthodologiques (cloud, agilité, intégration continue, DevOps, etc.)..</p>
 															<ul class="actions">
-																<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
+																<li><a target="_blank" href="#" class="button icon solid fa-file">LinkedIn</a></li>
 															</ul>
 														</article>
 
@@ -98,15 +97,15 @@
 													<!-- Highlight -->
 														<article class="box highlight">
 															<header>
-																<h3><a href="#">Mathieu LECOUPEAU</a></h3>
+																<h3><a href="#">Matthieu LECOUPEAU</a></h3>
 															</header>
-															<a href="#" class="image left"><img src="images/pic07.jpg" alt="" /></a>
+															<a href="#" class="image left "><img class="img-formateurs" src="images/pic07.jpg" alt="" /></a>
 															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
 															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
 															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
 															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
 															<ul class="actions">
-																<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
+																<li><a target="_blank" href="https://www.linkedin.com/in/matthieulecoupeau/" class="button icon solid fa-file">LinkedIn</a></li>
 															</ul>
 														</article>
 

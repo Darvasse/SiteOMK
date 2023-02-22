@@ -1495,7 +1495,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 180px;
+			width: 100%;
 		}
 
 		.image.fit {
@@ -2702,4 +2702,7 @@ input, select, textarea {
 					border-left: 0;
 				}
 
+	}
+	.img-formateurs {
+		width: 180px !important;
 	}
