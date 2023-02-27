@@ -47,10 +47,8 @@
 																<h3><a href="#">Jean-Yves KLEIN</a></h3>
 															</header>
 															<span class="image left "><img class="img-formateurs" src="images/pic06.jpg" alt="" /></span>
-															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
-															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
-															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
-															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
+																<p>Ancien développeur, passé Chef de Projet, Directeur de projets, Responsable Informatique, puis Coach Agile.</p>
+																<p>Certifié PMP, Disciplined Agile Coach, SAFe, Scrum. Il cherche à trouver la meilleure solution en fonction de l'équipe, du projet, du contexte et de l'entreprise.</p>
 															<ul class="actions">
 																<li><a target="_blank" href="https://www.linkedin.com/in/jean-yves-klein/" class="button icon solid fa-file">LinkedIn</a></li>
 															</ul>
@@ -64,11 +62,10 @@
 															<header>
 																<h3><a href="#">Frank ORTEGA</a></h3>
 															</header>
-															<a href="#" class="image left "><img class="img-formateurs" src="images/pic09.jpg" alt="" /></a>
-															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
-															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
-															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
-															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
+																<a href="#" class="image left "><img class="img-formateurs" src="images/pic09.png" alt="" /></a>
+																<p>Ma connaissance approfondie des méthodologies classiques et agiles me permet de faciliter la transition vers l'Agile pour les équipes et les organisations, en prenant en compte les besoins de chacun et en favorisant l'engagement des participants.</p>
+
+																<p>Passionné par les nouvelles méthodes d'apprentissage, et j'utilise souvent des serious games pour rendre l'apprentissage plus ludique et plus efficace. Je suis donc très enthousiaste à l'idée de partager mon expérience</p>
 															<ul class="actions">
 																<li><a target="_blank" href="#" class="button icon solid fa-file">LinkedIn</a></li>
 															</ul>
@@ -100,10 +97,9 @@
 																<h3><a href="#">Matthieu LECOUPEAU</a></h3>
 															</header>
 															<a href="#" class="image left "><img class="img-formateurs" src="images/pic07.jpg" alt="" /></a>
-															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
-															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
-															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
-															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
+																<p>Agiliste pragmatique et agnostique</p>
+																<p>Après une carrière en tant que développeurs, mon appétence pour les relation humaine et la réussite des projets m'a naturellement fait passer du coté Agile de la force.</p>
+																<p> Depuis j'exerce mes talents dans des entreprises très diverses, tout en distillant mon expérience et mes connaissances en tant qu'orateur dans divers évènements nationaux.</p>
 															<ul class="actions">
 																<li><a target="_blank" href="https://www.linkedin.com/in/matthieulecoupeau/" class="button icon solid fa-file">LinkedIn</a></li>
 															</ul>

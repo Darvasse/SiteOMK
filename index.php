@@ -5,28 +5,23 @@
 ?>
 <section id="features">
 					<div class="container">
-						<header>
-							<h2>Gentlemen, behold! This is <strong>Strongly Typed</strong>!</h2>
-						</header>
 						<div class="row aln-center">
 							<div class="col-4 col-6-medium col-12-small">
 
 								<!-- Feature -->
 									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<a href="https://omk.catalogueformpro.com/" target="_blank" class="image featured"><img src="images/pic01.png" alt="" /></a>
 										<header>
-											<h3>lien site 1</h3>
+											<h3>Catalogue de formation</h3>
 										</header>
-										<p>BlaBla information <strong>Mot clefs</strong>, Lorem ipsum
-										by <a href="https://google.com">lien</a>. <a><strong>Lien en gras</strong></a> encore plus de lorem ipsum 
-										<a href="#">lien qui va nul part</a>.</p>
+										<p>Notre catalogue de <a href="https://omk.catalogueformpro.com/"><strong>formations</strong></a>
 									</section>
 
 							</div>
-							
+							<!--
 							<div class="col-4 col-6-medium col-12-small">
-
-								<!-- Feature -->
+							-->
+								<!-- Feature --><!-- 
 									<section>
 										<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 										<header>
@@ -42,7 +37,7 @@
 								<ul class="actions">
 									<li><a href="#" class="button icon solid fa-file">Tell Me More</a></li>
 								</ul>
-							</div>
+							</div>-->
 						</div>
 					</div>
 </section>
