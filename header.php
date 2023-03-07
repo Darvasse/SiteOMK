@@ -55,7 +55,7 @@
 								<ul>
 									<li><a class="icon solid fa-home" href="index.php"><span>Accueil</span></a></li>
 									<li><a class="icon fa-chart-bar" target="_blank" href="https://omk.catalogueformpro.com/"><span>Formations</span></a></li>
-									<li><a class="icon solid fa-cog" href="liste-formateur.php"><span>Formateur</span></a></li>
+									<li><a class="icon solid fa-cog" href="liste-formateur.php"><span>Formateurs</span></a></li>
 									<!--<li><a class="icon solid fa-retweet" href="https://google.com"><span>Autre site</span></a></li>-->
 									<li><a class="icon solid fa-sitemap" href="a-propos.php"><span>À propos</span></a></li>
 								</ul>
