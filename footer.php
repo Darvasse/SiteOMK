@@ -35,7 +35,7 @@
 													07 66 52 40 31
 												</li>
 												<li class="icon solid fa-envelope">
-													<a href="#">ymartin@gmx.fr</a>
+													<a href="#">contact@omk-formation.fr</a>
 												</li>
 											</ul>
 										</div>
